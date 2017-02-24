@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  OCSwiftProject
+//
+//  Created by Dzy on 24/02/2017.
+//  Copyright © 2017 Dzy. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/*
+ if have a swift file can  all swift header used
+ */
+// #import "OCSwiftProject-Swift.h"
+
+
+#endif /* PrefixHeader_pch */
