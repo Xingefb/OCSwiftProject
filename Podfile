@@ -22,8 +22,16 @@ pod 'VBFPopFlatButton', '~> 0.0.7'
 pod 'Alamofire', '~> 4.3.0'
 
 pod 'Charts', '~> 3.0.1'
-	
 
+pod 'BlocksKit', '~> 2.2.5'
+
+pod 'iVersion', '~> 1.11.5'
+
+pod 'Masonry', '~> 1.0.2'
+
+pod 'MBProgressHUD', '~> 1.0.0'
+
+pod 'POP+MCAnimate', '~> 2.0.1'
 
 
   target 'OCSwiftProjectTests' do
